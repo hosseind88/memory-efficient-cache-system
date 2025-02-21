@@ -12,11 +12,6 @@ A high-performance, in-memory caching system implemented in Go, designed to prov
 - **Channel-Based Communication**: Efficient inter-goroutine communication for cache operations
 - **Configurable Cache Settings**: Customizable cache size, TTL defaults, and eviction policies
 
-## Technical Stack
-
-- Go 1.x
-- Standard library (no external dependencies)
-
 ## Key Components
 
 - Thread-safe concurrent operations
@@ -26,19 +21,6 @@ A high-performance, in-memory caching system implemented in Go, designed to prov
 - TTL (Time-To-Live) management
 - Channel-based notifications
 
-## Learning Objectives
-
-This project serves as a practical implementation to understand:
-- Go's concurrency patterns (goroutines and channels)
-- Memory management in Go
-- Thread synchronization techniques
-- System design patterns
-- Performance optimization strategies
-
 ## Project Status
 
 🚧 Under Development
-
-## License
-
-[Choose your license]
