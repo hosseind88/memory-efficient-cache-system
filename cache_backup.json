@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "value": "value1",
+      "expiration": 1739394106798256000,
+      "created": "2025-02-13T00:26:46.79827+03:30",
+      "last_access": "2025-02-13T00:26:46.79827+03:30",
+      "size": 100,
+      "key": "key1"
+    },
+    {
+      "value": { "nested": "value2" },
+      "expiration": 1739394106798277000,
+      "created": "2025-02-13T00:26:46.798277+03:30",
+      "last_access": "2025-02-13T00:26:46.798277+03:30",
+      "size": 200,
+      "key": "key2"
+    }
+  ],
+  "max_size": 1048576,
+  "stats": {
+    "Hits": 0,
+    "Misses": 0,
+    "Evictions": 2,
+    "Expirations": 0,
+    "ItemsCount": 0
+  }
+}
